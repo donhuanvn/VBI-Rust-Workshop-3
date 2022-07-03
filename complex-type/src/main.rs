@@ -499,4 +499,8 @@ impl A {
 
 // fn function_a(a: String) -> &String{
 //     &a
+<<<<<<< HEAD
 // }
+=======
+// }
+>>>>>>> eef58d8133729363ea926550dfd31fdc7bb82bf7
